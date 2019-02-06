@@ -35,7 +35,7 @@ def using_uniq(captain_planet_and_the_planeteers)
 captain_planet_and_the_planeteers.uniq
 end
 
-#def using_flatten(private_colleges_in_newyork)
+def using_flatten(private_colleges_in_newyork)
   private_colleges_in_newyork.flatten
 end
 
